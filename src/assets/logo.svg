@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #8b5a2b; /* Brown color */
+      }
+      .cls-2 {
+        fill: #8b5a2b; /* Brown color */
+      }
+      .cls-3 {
+        fill: #623b1d; /* Darker brown color */
+      }
+    </style>
+  </defs>
+  <g id="Dove">
+    <path class="cls-1" d="M12 17c1.05 2.81 3.69 3.94 8.26 1.91S28.25 8.31 25 1a10.2 10.2 0 0 1-5 5c-2.74 1.22-11 3-8 11z"/>
+    <path class="cls-2" d="M12 10.35V9a4 4 0 0 0-8 0l-3 2 3 1a2.76 2.76 0 0 1 .8 2.4 10.4 10.4 0 0 0 10.91 11.85L20 26l5 5a7.65 7.65 0 0 0 6-6l-8-2-1.29-3.86a8.58 8.58 0 0 0-7.08-5.81A3 3 0 0 1 12 10.35z"/>
+    <path class="cls-3" d="m1 11 3-2v3l-3-1z"/>
+    <path class="cls-1" d="M8 9a1 1 0 0 1-2 0 1 1 0 0 1 2 0z"/>
+    <path class="cls-2" d="M11 16c0 3 4 5 9 5s11-6 11-14a8.76 8.76 0 0 1-6 2c-3 0-14-1-14 7z"/>
+  </g>
+</svg>

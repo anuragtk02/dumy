@@ -1,0 +1,40 @@
+@import 'animate.css';
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Add this CSS to your global stylesheet or Tailwind CSS file */
+
+.slick-prev,
+.slick-next {
+  z-index: 10;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: rgba(0, 0, 0, 0.5);
+  color: #fff;
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+.slick-prev:hover,
+.slick-next:hover {
+  background: rgba(0, 0, 0, 0.8);
+}
+
+.slick-dots {
+  bottom: 20px;
+}
+
+.slick-dots li button:before {
+  font-size: 12px;
+  color: #ddd;
+}
+
+.slick-dots li.slick-active button:before {
+  color: #fff;
+}
